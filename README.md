@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao_lauriapiress?igshid=OGQ5ZDc2ODk2ZA==)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lauria-252879234)
 
-Sou Estudante do 5º período de Engenharia de Software na instituição UNIFAE São João da Boa Vista. Tenho interesse na área de programação e busco desenvolvimento profissional nesta área.
+Estudante do 4º período de Engenharia de Software na instituição UNIFAE São João da Boa Vista. Tenho interesse na área de programação e busco desenvolvimento profissional nesta área.
 
 ## Linguagens que tenho conhecimento:
 
